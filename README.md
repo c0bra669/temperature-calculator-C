@@ -10,3 +10,4 @@ $unit:
 - K - Kelvin
 - C - Celsius
 - F - Farenheit
+### use CAPITAL LETTERS for unit!
